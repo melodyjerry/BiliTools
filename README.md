@@ -34,6 +34,7 @@
 以上内容以文档为准
 
 **[详细文档查看](https://btdocs.vercel.app/)**
+**[详细文档查看（备用文档）](https://catlair.github.io/BiliTools/)**
 
 ## 说明
 
